@@ -25,25 +25,29 @@ WalletSync is a cutting-edge, production-ready e-wallet backend that transforms 
 
 ## 🔧 Microservices Architecture
 
-### 1. User Service (`EwalletProjects-user`)
+### 1. User Service (`EwalletProjects-user`) 
+🔗 **User Service**: [User Service](https://github.com/ArdiSasongko/EwalletProjects-user)
 - 🔐 Authentication Powerhouse
   - Robust user registration
   - Secure login/logout mechanisms
   - Intelligent token refresh strategies
 
 ### 2. Wallet Service (`EwalletProjects-wallet`)
+🔗 **Wallet Service**: [Wallet Service](https://github.com/ArdiSasongko/EwalletProjects-wallet)
 - 💰 Financial Operations Hub
   - Instant wallet creation
   - Real-time balance management
   - Comprehensive transaction tracking
 
 ### 3. Transaction Service (`EwalletProjects-transaction`)
+🔗 **Transaction Service**: [Transaction Service](https://github.com/ArdiSasongko/EwalletProjects-transaction)
 - 💳 Transaction Management Engine
   - Flexible transaction creation
   - Advanced transaction updating
   - Comprehensive refund capabilities
 
 ### 4. Notification Service (`EwalletProjects-notification`)
+🔗 **Notification Service**: [Notification Service](https://github.com/ArdiSasongko/EwalletProjects-notification)
 - 📬 Communication Backbone
   - gRPC-powered notification dispatch
   - Extensible communication channels
